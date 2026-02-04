@@ -3,7 +3,7 @@
 
 * 🌍 I'm from Tunisia but currently based in France
 * ✉️ You can contact me at [harrabihaithem21@gmail.com](mailto:harrabihaithem21@gmail.com)
-* 🧠 Languages I learn or master: JavaScript, TypeScript, Java
+* 🧠 Languages I prefer the most: JavaScript, TypeScript, Java
 * 🤔 My other software related interests: 🤖 AI & LLMs, CI/CD, software architecture, Data engineering.
   
 ### 🔗 Connect With Me
