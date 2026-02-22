@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haythem Harrabi !</h1>
-<h3 align="center">A software engineering student specialized in IT Architecture & cloud computing.</h3>
+<h3 align="center">A software engineering student currently completing my engineering degree at IMT Mines Albi university.</h3>
 
+* ➡️​ I'm into software development, cloud computing, devops and machine learning.
 * 🌍 I'm from Tunisia but currently based in France
 * ✉️ You can contact me at [harrabihaithem21@gmail.com](mailto:harrabihaithem21@gmail.com)
 * 🧠 Languages I prefer the most: JavaScript, TypeScript, Java
